@@ -25,3 +25,9 @@ fetch rows  //show next batch records
 ######Create EER
 start-> models(three icons),new models, existing models,create EER from database(script)  
 step5 select objects->
+######Forwawrd engineering
+EER model->Database->forward engineering->drop before create
+######schema transfer
+schema transfer wizard
+######schema compare
+compare schemas
